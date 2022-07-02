@@ -5,7 +5,12 @@
       "ProjectGuid": "90c3f51d-62cc-46d5-8b7a-7df5b75b958e",
       "DisplayName": "ParkyAPI",
       "ColorIndex": 0
+    },
+    "6bcf5e44-2421-4b34-8ebb-40d16af9b5a2": {
+      "ProjectGuid": "6bcf5e44-2421-4b34-8ebb-40d16af9b5a2",
+      "DisplayName": "ParkyWeb",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
