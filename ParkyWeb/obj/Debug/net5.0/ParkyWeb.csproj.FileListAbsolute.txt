@@ -354,3 +354,5 @@ C:\Users\hp\Documents\ClassDemoRest\Parky\ParkyWeb\bin\Debug\net5.0\tr\Microsoft
 C:\Users\hp\Documents\ClassDemoRest\Parky\ParkyWeb\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\hp\Documents\ClassDemoRest\Parky\ParkyWeb\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\hp\Documents\ClassDemoRest\Parky\ParkyWeb\obj\Debug\net5.0\ParkyWeb.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Documents\ClassDemoRest\Parky\ParkyWeb\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hp\Documents\ClassDemoRest\Parky\ParkyWeb\obj\Debug\net5.0\Razor\Views\NationalParks\Index.cshtml.g.cs
