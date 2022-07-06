@@ -78,9 +78,9 @@ namespace ParkyWeb.Repository
    
         }
 
-        public async Task<T> GetAsync(string url, int id)
+        public async Task<T> GetAsync(string url, int Id)
         {
-            var request = new HttpRequestMessage(HttpMethod.Get, url+id);
+            var request = new HttpRequestMessage(HttpMethod.Get, url+Id);
 
             var client = _clientFactory.CreateClient();
             HttpResponseMessage response = await client.SendAsync(request);
