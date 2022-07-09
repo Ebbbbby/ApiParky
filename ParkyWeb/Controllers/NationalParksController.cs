@@ -73,7 +73,7 @@ namespace ParkyWeb.Controllers
 
                 }
 
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction("Index");
             }
 
             else

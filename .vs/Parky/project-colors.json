@@ -10,7 +10,12 @@
       "ProjectGuid": "6bcf5e44-2421-4b34-8ebb-40d16af9b5a2",
       "DisplayName": "ParkyWeb",
       "ColorIndex": 1
+    },
+    "83381ae0-a462-457d-a996-f0648dc05c8b": {
+      "ProjectGuid": "83381ae0-a462-457d-a996-f0648dc05c8b",
+      "DisplayName": "BankingAppProject",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
